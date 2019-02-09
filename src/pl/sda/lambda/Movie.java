@@ -1,3 +1,4 @@
+
 package pl.sda.lambda;
 
 import java.time.LocalDate;
@@ -58,3 +59,4 @@ public class Movie {
         this.actorList = actorList;
     }
 }
+

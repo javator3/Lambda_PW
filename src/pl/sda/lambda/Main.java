@@ -1,4 +1,7 @@
+
 package pl.sda.lambda;
+
+import pl.sda.lambda.AddInterface;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -73,4 +76,8 @@ public class Main {
         moviesList2.forEach(p -> System.out.println(p));
     }
 }
+
+
+
+
 
